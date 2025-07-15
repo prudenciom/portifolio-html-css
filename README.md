@@ -29,9 +29,9 @@ Este projeto foi desenvolvido como parte da formação **Iniciante em Programaç
 
 ## 📸 Demonstração
 
-🔗 Link do site: [Clique aqui para visualizar o portfólio publicado](https://portifolio-html-css-ten.vercel.app/index.html/)
+🔗 Link do site: [Clique aqui para visualizar o portfólio publicado](https://portifolio-html-css-ten.vercel.app/)
 
-<img src="https://github.com/prudenciom/portifolio-html-css/main/imagem_portifolio_ficticio.png=true"width="800"/>
+<img src="https://github.com/prudenciom/portifolio-html-css/blob/main/imagem_portifolio_ficticio.png?raw=true" width="800"/>
 
 ---
 
@@ -41,4 +41,3 @@ Este projeto foi desenvolvido como parte da formação **Iniciante em Programaç
 portifolio-html-css/
 ├── index.html
 ├── style.css
-└── images/
