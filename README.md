@@ -41,3 +41,21 @@ Este projeto foi desenvolvido como parte da formação **Iniciante em Programaç
 portifolio-html-css/
 ├── index.html
 ├── style.css
+```
+## 📚 Aprendizados
+
+- Primeiros passos com HTML e CSS
+- Estruturação de páginas com semântica
+- Estilização com CSS externo
+- Uso de classes e IDs para organização visual
+- Noções básicas de responsividade
+
+## 📎 Créditos
+
+Desenvolvido como parte do desafio da formação:  
+🎓 [Oracle Next Education - Alura](https://www.alura.com.br)
+---
+
+<p align="center">
+  Feito com 💙 por <strong>Maiara Franco</strong> • <a href="https://github.com/prudenciom" target="_blank">GitHub</a>
+</p>
